@@ -15,12 +15,12 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
-global.alivepic = `https://i.ibb.co/gSzGxDq/Paper-Logo-Mockup-by-STP.png `
+global.alivepic = ` https://i.ibb.co/gSzGxDq/Paper-Logo-Mockup-by-STP.png `
 global.owner = ['94715387442'] //ur owner number
 global.ownername = "꧁𝗩☬⃟🍃⃞☞Theekshana☸️⃞📵꧂" //ur owner name
 global.ytname = "YT: kavee" //ur yt chanel name
 global.socialm = "Dark Nero" //ur github or insta name
-global.location = "Sri Lanka, Aliyavidhdhawewa, Ranorawa" //ur location
+global.location = "Sri Lanka, Aliyavidhdhawewa,Ranorawa" //ur location
 
 //bot bomdy 
 global.ownernomer = "94715387442" //ur number
